@@ -1,11 +1,10 @@
-index.html
 <!DOCTYPE html>
 <html>
 <head>
-    <title>CyberGuard</title>
+  <title>CyberGuard</title>
 </head>
 <body>
-    <h1>CyberGuard is Live 🔥</h1>
-    <p>Website working successfully!</p>
+  <h1>CyberGuard is Live 🔥</h1>
+  <p>Website working successfully!</p>
 </body>
 </html>
